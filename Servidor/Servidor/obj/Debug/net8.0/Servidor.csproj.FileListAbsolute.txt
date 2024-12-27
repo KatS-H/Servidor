@@ -1,0 +1,14 @@
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfo.cs
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\bin\Debug\net8.0\Servidor.exe
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\bin\Debug\net8.0\Servidor.deps.json
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\bin\Debug\net8.0\Servidor.runtimeconfig.json
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\bin\Debug\net8.0\Servidor.dll
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\bin\Debug\net8.0\Servidor.pdb
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.dll
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\refint\Servidor.dll
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.pdb
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
+C:\Users\libel\OneDrive\Desktop\Marlene\Marlene\Organización\Proyecto Modular\Servers\Servidor\Servidor\Servidor\obj\Debug\net8.0\ref\Servidor.dll
